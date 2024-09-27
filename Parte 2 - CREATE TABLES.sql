@@ -1,3 +1,4 @@
+#Tabelas disponibilizadas pelo texto base para resolução das questões da parte 2
 CREATE TABLE produtos (
     id SERIAL PRIMARY KEY,
     nome VARCHAR(100) NOT NULL,
