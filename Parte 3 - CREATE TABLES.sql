@@ -1,3 +1,4 @@
+#Questão 6
 CREATE TABLE IF NOT EXISTS turma
 (
 	id_turma INT NOT NULL,
