@@ -1,21 +1,15 @@
 ![Logo da Ada Tech Cursos](./LogoAdaCabecalho.png)
 
-<hr>
-
-<p></p>
+# PROJETO FINAL - BANCO DE DADOS - SANTANDER CODERS | ADA TECH
 <p align="center">
    <img src="https://img.shields.io/static/v1?label=STATUS&message=%20CONLUÍDO&color=RED&style=for-the-badge" #vitrinedev/>
 </p>
-
-# PROJETO FINAL - BANCO DE DADOS - SANTANDER CODERS | ADA TECH
 
 ## Tópicos
 
 - [Descrição do projeto](#descrição-do-projeto)
 
 - [Requisitos](#requisitos)
-
-- [Funcionalidades](#funcionalidades)
 
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
 
@@ -143,10 +137,14 @@ Colunas da tabela: id_turma (INT), código_turma (VARCHAR), nome_turma (VARCHAR)
 
 ## Ferramentas utilizadas
 
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Acesso ao projeto
 
-Você pode [acessar à documentação de modelagem e ao código fonte do projeto](https://github.com/jjofilho/projeto_sistema_pessoal_financeiro).
+Você pode [acessar à documentação de modelagem e ao código fonte do projeto](https://github.com/jjofilho/project_postgreSQL_T1174/).
 
 ## Colaboradores
+| [<img src="https://avatars.githubusercontent.com/u/20822673?v=4" width=115> <br><sub>André Filipe</sub>](https://github.com/filipester) | [<img src="https://avatars.githubusercontent.com/u/60614096?v=4" width=115> <br><sub>Diogo Carvalho</sub>](https://github.com/Dogix11) | [<img src="https://avatars.githubusercontent.com/u/172111247?v=4" width=115><br><sub>Flanderson Prates</sub>](https://github.com/flandersonprates) | [<img src="https://avatars.githubusercontent.com/u/161227020?v=4" width=115><br><sub>Giovana Martins</sub>](https://github.com/rhapozita) |  [<img src="https://avatars.githubusercontent.com/u/170963236?s=400&u=a8c7f81bbb6eba3f775a6f5f65098aace7bbef9d&v=4" width=115><br><sub>João Oliveira</sub>](https://github.com/jjofilho) |
+| :---: | :---: | :---: | :---: | :---: |
