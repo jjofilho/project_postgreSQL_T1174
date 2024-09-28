@@ -1,3 +1,4 @@
+#Questão 7 - a
 INSERT INTO turma (id_turma, codigo_turma, nome_turma) VALUES
 (1, 'DS-PY-001', 'Lógica de Programção'),
 (2, 'DS-PY-002', 'Técnicas de Programação'),
@@ -7,6 +8,7 @@ INSERT INTO turma (id_turma, codigo_turma, nome_turma) VALUES
 (6, 'DS-PY-006', 'Machine Learning II'),
 (7, 'DS-PY-007', 'Projeto Final Trilha DS');
 
+#Questão 7 - b, c
 INSERT INTO aluno (id_aluno, nome_aluno, aluno_alocado, id_turma) VALUES
 (1, 'Bruno Trindade', True, 7),
 (2, 'André Filipe', True, 1),
