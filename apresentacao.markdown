@@ -26,7 +26,7 @@
 
 #### Com um grande volume de produtos e clientes, característicos de um grande banco, otimizem as informações tanto na hora de uma busca dentro de um sistema de SAC, como também para a formalização do contrato, podendo assim automatizar cadastros e consultas posteriores. Temos então nosso modelo final representado na seguinte visão:
 
-[![Modelo Conceitual (MER)](images/Parte 1 - Modelo Conceitual (MER).jpg)](https://github.com/jjofilho/project_postgreSQL_T1174/blob/e52c5d62d2b7f8634a532c1330474f62ac8ef3be/images/Parte%201%20-%20Modelo%20Conceitual%20(MER).jpg)
+![Modelo Conceitual (MER)](https://github.com/jjofilho/project_postgreSQL_T1174/blob/e52c5d62d2b7f8634a532c1330474f62ac8ef3be/images/Parte%201%20-%20Modelo%20Conceitual%20(MER).jpg)
 
 <p align= 'center'> Figura 1 - Modelo Entidade Relacionamento do Banco</p>
 
@@ -41,7 +41,8 @@
 #### Respeitando as 3FNs, podemos notar que há a necessidade de dedicar uma tabela para telefone, um atributo multivalorado, com a cardinalidade (1,n), assim como precisamos criar a tabela de endereço que também possui características que podem ser utilizadas por diversos clientes. Com isso conseguimos, ao consultar a tabela clientes, apenas importar um código, respeitando a segunda forma normal. Também criamos a tabela tipo do cliente, para que não fique-se repetindo essa informação diversas vezes dentro do nosso banco de dados. O mesmo raciocínio se repete para o tipo de produto e diretor responsável. Já a nossa tabela e-mail segue a mesma proposta da tabela de Telefone. 
 
 #### Assim temos o seguinte modelo lógico: 
-![Modelo Lógico](images/Parte 1 - Modelo Lógico.jpg)
+![Modelo Lógico](https://github.com/jjofilho/project_postgreSQL_T1174/blob/ba386320b2519658e9bbe6ed4c78bdb192481a29/images/Parte%201%20-%20Modelo%20L%C3%B3gico.jpg)
+
 <p align= 'center'> Figura 2 - Modelo Lógico do Banco
 
 
