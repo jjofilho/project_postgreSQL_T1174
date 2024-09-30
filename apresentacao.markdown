@@ -47,6 +47,8 @@
 # Limpeza, Criação de Tabelas no PgAdmin, popular e realizar consultas
 #### Seguindo com os conceitos apresentados anteriormente partimos para a criação de um modelo físico, porém para simplificar, tabelas a partir da seguinte:
 
+![produtos_categoria](images/produtos_categorias.png)
+
 #### Para popular o banco de dados foi utilizado a seguinte base de dados: <url>https://www.kaggle.com/datasets/ayushparwal2026/online-ecommerce</url> e utilizamos o código em Python para a limpeza e adequação dos valores, nomes das colunas e as propriedades de unicidade de chaves primárias, estrangeiras e também para encontrar as quantidades de caracteres que deve-se colocar para os dados em VARCHAR. Foi-se utilizado a biblioteca Pandas para tal exercício.
 
 #### Com o dataframe pronto, conseguimos atráves do PgAdmin importar nossa base de dados seguindo o caminho:
@@ -56,6 +58,8 @@
 4. Selecionar o Enconding para UTF-8
 5. Marcar que há o Header no arquivo CSV
 6. Selecionar as colunas que devem ser importadas para o banco de dados
+
+![import](images/import.png)
 
 #### A partir da tabela populada, abriu-se uma query para trabalhar as ***CONSULTAS***, usou-se o comando select para selecionar as colunas preco e nome da tabela produto, usando o 'as' para alterar a saída das colunas para Valor e Produto, respectivamente, para melhor interpretação do BD. Foi colocado o WHERE para impor a condição de consultar apenas valores maiores que 5000 reais (adaptado por conta do banco de dados de e-commerce ter valores muito acima de 100 reais proposto no trabalho) e por fim ordenou os resultados da consulta primeiro do menor ao maior preço, depois por ordem alfabética com o ORDER BY.
 
