@@ -31,7 +31,7 @@
 ### 5 - Para cada categoria, mostre o preço médio do conjunto de produtos a ela associados. Caso uma categoria não tenha nenhum produto a ela associada, esta categoria não deve aparecer no resultado final. A consulta deve estar ordenada pelos nomes das categorias.
 
 ### Explicação: Foi usado o select para selecionar a coluna ca.nome (nome das categorias) e fazer uma média de cada categoria com o AVG, foram usados os alias categoria e media para melhor interpretação das colunas, select from seleciona a tabela produto e com o auxílio dos INNER JOIN selecionam também as tabelas produtos_categorias e categorias, As tabelas são combinadas usando INNER JOIN para ligar os produtos às suas categorias. Os resultados foram agrupados pelo GRUOP BY que agrupa os resultados pela categoria e por fim ordenou os resultados da consulta em ordem alfabética (asc) com o ORDER BY.
-![PARTE 2 - Exercício 5 resultado sql](https://github.com/user-attachments/assets/e604a5d8-07a0-485e-9861-923f29f57bc7)
+![image](https://github.com/user-attachments/assets/3112d9aa-22eb-402c-807e-6eafea121146)
 
 # PARTE 3 DO PROJETO - Inserções, alterações e remoções de objetos e dados em um banco de dados postgres
 
