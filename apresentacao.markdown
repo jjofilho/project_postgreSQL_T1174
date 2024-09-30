@@ -40,7 +40,7 @@
 #### Respeitando as 3FNs, podemos notar que há a necessidade de dedicar uma tabela para telefone, um atributo multivalorado, com a cardinalidade (1,n), assim como precisamos criar a tabela de endereço que também possui características que podem ser utilizadas por diversos clientes. Com isso conseguimos, ao consultar a tabela clientes, apenas importar um código, respeitando a segunda forma normal. Também criamos a tabela tipo do cliente, para que não fique-se repetindo essa informação diversas vezes dentro do nosso banco de dados. O mesmo raciocínio se repete para o tipo de produto e diretor responsável. Já a nossa tabela e-mail segue a mesma proposta da tabela de Telefone. 
 
 #### Assim temos o seguinte modelo lógico: 
-![Modelo Lógico](https://github.com/user-attachments/assets/d4f4565a-d7df-446a-affa-e4b292b1c873)
+![Modelo Lógico](images/Parte 1 - Modelo Lógico.jpg)
 <p align= 'center'> Figura 2 - Modelo Lógico do Banco
 
 
