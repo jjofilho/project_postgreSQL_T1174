@@ -26,7 +26,7 @@
 
 #### Com um grande volume de produtos e clientes, característicos de um grande banco, otimizem as informações tanto na hora de uma busca dentro de um sistema de SAC, como também para a formalização do contrato, podendo assim automatizar cadastros e consultas posteriores. Temos então nosso modelo final representado na seguinte visão:
 
-![Modelo Conceitual (MER)](images/Parte 1 - Modelo Conceitual (MER).jpg)
+[![Modelo Conceitual (MER)](images/Parte 1 - Modelo Conceitual (MER).jpg)](https://github.com/jjofilho/project_postgreSQL_T1174/blob/e52c5d62d2b7f8634a532c1330474f62ac8ef3be/images/Parte%201%20-%20Modelo%20Conceitual%20(MER).jpg)
 <p align= 'center'> Figura 1 - Modelo Entidade Relacionamento do Banco
 
 ## MODELO LÓGICO - Avançando Conceitos
