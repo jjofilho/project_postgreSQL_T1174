@@ -79,7 +79,7 @@
 
 <p> Tabela 3 - Valores médios de cada categoria</p>
 
-![PARTE 2 - Exercício 5 resultado sql](https://github.com/user-attachments/assets/e604a5d8-07a0-485e-9861-923f29f57bc7)
+![image](https://github.com/user-attachments/assets/3112d9aa-22eb-402c-807e-6eafea121146)
 
 # Linguagem DDL e DML
 ### Para finalizar os conhecimentos adquiridos no módulo de banco de dados, finalizamos com um exercício básico de um CRUD. Para isso foi usado um novo banco de dados de alunos e turmas, o objetivo é simplificar o problema para um novo que seja mais acessível para todos. Com isso podemos mostrar como seria inserido, lido, modificado ou deletado dados do nosso banco de dados.  
