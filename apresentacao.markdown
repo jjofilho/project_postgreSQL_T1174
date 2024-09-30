@@ -47,7 +47,7 @@
 # Limpeza, Criação de Tabelas no PgAdmin, popular e realizar consultas
 #### Seguindo com os conceitos apresentados anteriormente partimos para a criação de um modelo físico, porém para simplificar, tabelas a partir da seguinte:
 
-![produtos_categoria]()
+![produtos_categoria](images/produtos_categorias.png)
 
 #### Para popular o banco de dados foi utilizado a seguinte base de dados: <url>https://www.kaggle.com/datasets/ayushparwal2026/online-ecommerce</url> e utilizamos o código em Python para a limpeza e adequação dos valores, nomes das colunas e as propriedades de unicidade de chaves primárias, estrangeiras e também para encontrar as quantidades de caracteres que deve-se colocar para os dados em VARCHAR. Foi-se utilizado a biblioteca Pandas para tal exercício.
 
