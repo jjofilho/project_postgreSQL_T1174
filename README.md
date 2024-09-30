@@ -1,4 +1,4 @@
-![Logo da Ada Tech Cursos](./LogoAdaCabecalho.png)
+![Logo da Ada Tech Cursos](images/LogoAdaCabecalho.png)
 
 # PROJETO FINAL - BANCO DE DADOS - SANTANDER CODERS | ADA TECH
 <p align="center">
